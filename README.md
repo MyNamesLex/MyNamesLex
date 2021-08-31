@@ -6,6 +6,8 @@
 
 - RGB makes everything look cool
 
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
 ## Stats
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)

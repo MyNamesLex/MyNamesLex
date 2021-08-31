@@ -8,7 +8,7 @@
 
 ## Game Jam List
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MyNamesLex&repo=All-Jam-Games&theme=midnight-purple&show_owner=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MyNamesLex&repo=All-Jam-Games&theme=midnight-purple&show_owner=true&)](https://github.com/MyNamesLex/All-Jam-Games)
 
 ## Stats
 

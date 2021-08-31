@@ -15,4 +15,4 @@
 
 ## Game Jam List
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

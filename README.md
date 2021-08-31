@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lex
+# 👋 Hi there, I’m Lex
 
 
 - I have fun making games with Unity and trying new things out! :D

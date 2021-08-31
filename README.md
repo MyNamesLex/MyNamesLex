@@ -2,11 +2,9 @@
 
 
 
-- I have fun making games with Unity and trying new things out with Game Development! :grin:
+- I have fun making games with Unity and trying new things out
 
-- Dark Mode = Best Mode :wink:
-
-- Specs: Intel Core i7-9700, NVIDIA GeForce RTX 2060, VENGEANCE RGB PRO 32GB :smile:
+- RGB makes everything look cool
 
 ## Stats
 

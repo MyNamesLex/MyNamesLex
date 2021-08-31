@@ -2,7 +2,7 @@
 
 
 
-- I have fun making games with Unity and trying new things out
+- Just having fun making games with Unity and trying new things out
 
 - RGB makes everything look cool
 

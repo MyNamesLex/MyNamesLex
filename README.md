@@ -2,7 +2,7 @@
 
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
-- `<span style="color:orange;">Word up</span> makes everything look cool`
+- `<font color="red">Status: **Not yet implemented**</font>makes everything look cool`
 
 ## Stats
 

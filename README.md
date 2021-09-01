@@ -6,7 +6,7 @@
 
 - RGB makes everything look cool
 
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/unity.svg" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/Unity.svg" />
 
 ## Stats
 

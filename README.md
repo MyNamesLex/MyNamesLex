@@ -24,26 +24,13 @@
 
 	      <TD><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" /></TD>
 
-	      <TD><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" /></TD>
+	      <TD></TD>
 
 	   </TR>
-
-	   <TR>
-
-	      <TD>
-          <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
-       </TD>
-
-	      <TD
-            <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
-       /TD>
-
-	   </TR>
-
-	</TABLE>
-  
-
-
+ 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csswizardry.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />

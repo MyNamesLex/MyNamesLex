@@ -10,24 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&theme=algolia&hide=shaderlab,asp.net,cython,&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skillset
-<TABLE>
-
-	   <TR>
-
-	      <TD><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />/TD>
-
-	      <TD<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />/TD>
-
-	   </TR>
-
-	   <TR>
-
-	      <TD><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" /></TD>
-
-	      <TD></TD>
-
-	   </TR>
- 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
@@ -36,6 +21,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/processingfoundation.svg" />
+
 ## Game Jam List
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)

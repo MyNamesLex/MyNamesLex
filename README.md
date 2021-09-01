@@ -18,12 +18,12 @@
 
 ### Languages
 <img src="https://img.shields.io/badge/-C%2B%2B-black" /><img src="https://img.shields.io/badge/-C%23-black" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csswizardry.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/processingfoundation.svg" />
+<img src="https://img.shields.io/badge/-Python-black" />
+<img src="https://img.shields.io/badge/-CSS-black" />
+<img src="https://img.shields.io/badge/-HTML-black" />
+<img src="https://img.shields.io/badge/-Lua-black" />
+<img src="https://img.shields.io/badge/-Javascript-black" />
+<img src="https://img.shields.io/badge/-Processing-black" />
 
 ### Framework
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />

@@ -21,7 +21,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/processingfoundation.svg" />
-### FrameWork
+### Framework
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
 
 ## Game Jam List

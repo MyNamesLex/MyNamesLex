@@ -6,7 +6,7 @@
 
 - RGB makes everything look cool
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 ## Stats
 

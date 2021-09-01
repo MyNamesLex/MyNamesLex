@@ -14,7 +14,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cpp.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c++.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
 
 ## Game Jam List

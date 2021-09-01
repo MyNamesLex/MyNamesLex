@@ -1,7 +1,5 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
-
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB and Neon Lights makes everything look cool!

@@ -9,6 +9,16 @@
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&theme=algolia&hide=shaderlab,asp.net,cython,&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skillset
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+
 ## Game Jam List
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)

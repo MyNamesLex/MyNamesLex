@@ -4,17 +4,6 @@
 
 - RGB makes everything look cool
 
-var animTime = 6, // time for the animation in seconds
-    hueChange = 3, // the hue change from one span element to the next
-    prefixes = ["", "-webkit-", "-moz-", "-o-"],
-    numPrefixes = prefixes.length;
-
-$('.unicorn').find('span').each(function (i) {
-    for (var j = 0; j < numPrefixes; j++) {
-        $(this).css(prefixes[j] + 'animation-delay', (animTime * ((i * hueChange) % 360) / 360) - animTime + 's');
-    }
-});
-
 ## Stats
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)

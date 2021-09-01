@@ -11,8 +11,10 @@
 
 ## Skillset
 
-<img height="32" width="32" src="https://github.com/redbooth/free-file-icons/blob/master/512px/avi.png" />
-
+<img height="32" width="32" src="https://github.com/redbooth/free-file-icons/blob/master/512px/cpp.png" />
+<img height="32" width="32" src="https://github.com/redbooth/free-file-icons/blob/master/512px/csharp.png" />
+<img height="32" width="32" src="https://github.com/redbooth/free-file-icons/blob/master/512px/html.png" />
+<img height="32" width="32" src="https://github.com/redbooth/free-file-icons/blob/master/512px/css.png" />
 
 ## Game Jam List
 

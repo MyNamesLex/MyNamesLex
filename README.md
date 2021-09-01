@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/-Lua-black" />
 <img src="https://img.shields.io/badge/-Javascript-black" />
 <img src="https://img.shields.io/badge/-Processing-black" />
+<img src="https://img.shields.io/badge/-Git-black" />
 
 ### Framework
 <img src="https://img.shields.io/badge/-.NET-black" />
@@ -35,6 +36,7 @@
 <img src="https://img.shields.io/badge/-Movie%20Studio%2016-black"/>
 <img src="https://img.shields.io/badge/-Bosca%20Ceoil-black"/>
 <img src="https://img.shields.io/badge/-Aesprite-black"/>
+<img src="https://img.shields.io/badge/-SFXR-black"/>
 
 ## Lists
 

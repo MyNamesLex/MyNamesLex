@@ -6,9 +6,6 @@
 
 - RGB makes everything look cool
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 ## Stats
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)
@@ -17,3 +14,7 @@
 ## Game Jam List
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)
+
+## Joke of the day
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

@@ -22,8 +22,6 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/processingfoundation.svg" />
 ### Framework
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
-### Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
 
 ## Game Jam List
 

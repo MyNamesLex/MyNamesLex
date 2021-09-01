@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/-Gimp-black" />
 <img src="https://img.shields.io/badge/-OBS-black" />
 <img src="https://img.shields.io/badge/-Movie%20Studio%2016-black"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-black"/>
 
 ## Lists
 

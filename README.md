@@ -1,6 +1,6 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
 
-<a href="https://lexingto.itch.io>
+<a href="lexingto.itch.io>
 <img src="https://unpkg.com/simple-icons@v5/icons/unity.svg" " alt="an image" title="The title of this image"/>
 </a>
 

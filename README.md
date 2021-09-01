@@ -4,7 +4,7 @@
 <a href="https://lexingto.itch.io">
 <img src="https://unpkg.com/simple-icons@v5/icons/Itch.svg" " alt="an image" title="The title of this image" height="20" width="20"/>
 </a>
-                                                                                                                                   </p>
+</p>
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB makes everything look cool

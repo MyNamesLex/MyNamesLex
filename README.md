@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-Unity-black" /><img src="https://img.shields.io/badge/-Ren'py-black" />
 
 ### Languages
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
+<img src="https://img.shields.io/badge/-C%2B%2B-black" /><img src="https://img.shields.io/badge/-C%23-black" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csswizardry.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />

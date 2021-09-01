@@ -4,9 +4,9 @@
 
 - RGB makes everything look cool
 
-- ![##ff0000]R `##ff0000`
-- ![##04ff00]G`##04ff00`
-- ![##0000ff]B `##0000ff`
+- ![##ff0000](R) `##ff0000`
+- ![##04ff00](G) `##04ff00`
+- ![##0000ff](B) `##0000ff`
 
 ## Stats
 

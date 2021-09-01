@@ -2,7 +2,7 @@
 
 
 
-- Just having fun making games with Unity and trying new things out <img height="18" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+- Just having fun making games with Unity and trying new things out <img height="20" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB makes everything look cool
 

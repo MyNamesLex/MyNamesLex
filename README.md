@@ -14,7 +14,7 @@
 ## Skillset
 
 ### Engines
-<img height="32" width="32" src="https://img.shields.io/badge/-Unity-black" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
+<img src="https://img.shields.io/badge/-Unity-black" /><img src="https://img.shields.io/badge/-Ren'py-black" />
 
 ### Languages
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />

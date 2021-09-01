@@ -26,12 +26,12 @@
 <img src="https://img.shields.io/badge/-Processing-black" />
 
 ### Framework
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
+<img src="https://img.shields.io/badge/-.NET-black" />
 
 ### Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/audacity.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gimp.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/obsstudio.svg" />
+<img src="https://img.shields.io/badge/-Blender-black" /><img src="https://img.shields.io/badge/-Audacity-black" />
+<img src="https://img.shields.io/badge/-Gimp-black" />
+<img src="https://img.shields.io/badge/-OBS-black" />
 
 ## Lists
 

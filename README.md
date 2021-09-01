@@ -25,6 +25,7 @@
 
 ### Tools
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/audacity.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gimp.svg" />
 ## Game Jam List
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)

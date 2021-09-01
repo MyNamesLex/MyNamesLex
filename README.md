@@ -10,6 +10,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&theme=algolia&hide=shaderlab,asp.net,cython,&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skillset
+
+#menu ul{
+  list-style: none;
+}
+#menu li{
+  display: inline;
+}
+	<div id="menu">
+  <ul>
+    <li>First menu item</li>
+    <li>Second menu item</li>
+    <li>Third menu item</li>
+  </ul>
+</div>
+
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/blender.svg" />

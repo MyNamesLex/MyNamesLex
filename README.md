@@ -4,9 +4,9 @@
 
 - RGB makes everything look cool
 
-- ![##ff0000](https://via.placeholder.com/15/f03c15/000000?text=+) `##ff0000`
-- ![##04ff00](https://via.placeholder.com/15/c5f015/000000?text=+) `##04ff00`
-- ![##0000ff](https://via.placeholder.com/15/1589F0/000000?text=+) `##0000ff`
+- ![##ff0000]R `##ff0000`
+- ![##04ff00]G`##04ff00`
+- ![##0000ff]B `##0000ff`
 
 ## Stats
 

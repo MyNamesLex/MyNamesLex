@@ -1,5 +1,7 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </p>
 
+<a href="https://lexingto.itch.io/"target="blank"><img align="center" src ="https://unpkg.com/simple-icons@v5/icons/itch.svg" alt="https://lexingto.itch.io/" height ="30" width="40"/></a>
+
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB makes everything look cool

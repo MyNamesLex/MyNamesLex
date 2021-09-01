@@ -3,7 +3,8 @@
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB makes everything look cool
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
 
 ## Stats
 

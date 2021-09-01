@@ -6,6 +6,8 @@
 
 - RGB makes everything look cool
 
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/unity.svg" />
+
 ## Stats
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)

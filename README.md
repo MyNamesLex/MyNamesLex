@@ -31,6 +31,6 @@
 ## Lists
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/mynameslex/Favourites-I-Made)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)

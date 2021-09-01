@@ -4,8 +4,6 @@
 
 - RGB makes everything look cool
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
-
 ## Stats
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)
@@ -14,3 +12,5 @@
 ## Game Jam List
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/mynameslex/All-Jam-Games)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)

@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://lexingto.itch.io">
-<img src="https://www.pinclipart.com/pindetail/ibbxxwh_itch-io-logo-clipart" " alt="an image" title="The title of this image" height="20" width="20"/>
+<img src="https://www.pinclipart.com/picdir/middle/555-5557851_itch-io-logo-clipart.png" " alt="an image" title="The title of this image" height="20" width="20"/>
                                                                                                                                    </a></p>
                                                                                                                                    
                                                                                                                                    

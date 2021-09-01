@@ -13,8 +13,7 @@
 ### Engines
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/renpy.svg" />
 ### Languages
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csswizardry.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />

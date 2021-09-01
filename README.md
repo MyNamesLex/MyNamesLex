@@ -1,7 +1,7 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Just+having+fun+making+games+with+Unity+and+trying+new+things+out)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Just+having+fun+making+games+with+Unity;and+trying+new+things+out)](https://git.io/typing-svg)
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB makes everything look cool

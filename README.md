@@ -1,6 +1,6 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
 
-[![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge&logo=appveyor)](https://lexingto.itch.io/)
+[![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge)](https://lexingto.itch.io/)
 
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 

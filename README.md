@@ -13,6 +13,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/mynameslex/mynameslex)](https://badges.pufler.dev)
 
+[![Repos Badge](https://badges.pufler.dev/repos/mynameslex)](https://badges.pufler.dev)
+
 ## Skillset
 
 ### Engines

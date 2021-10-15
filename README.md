@@ -1,6 +1,6 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge)](https://lexingto.itch.io/) ![Visits Badge](https://badges.pufler.dev/visits/mynameslex/mynameslex)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge)](https://lexingto.itch.io/)</p>
 
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
@@ -10,10 +10,9 @@
 
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
-
-
-
+![Visits Badge](https://badges.pufler.dev/visits/mynameslex/mynameslex)
 ## Skillset
 
 ### Engines

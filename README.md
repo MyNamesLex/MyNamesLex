@@ -1,8 +1,6 @@
 # <p align="center"> Hi there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge)](https://lexingto.itch.io/)
-![Visitor Count](https://profile-counter.glitch.me/{mynameslex}/count.svg)
-</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-red?style=for-the-badge)](https://lexingto.itch.io/)</p>
 
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
@@ -46,3 +44,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
+![Visitor Count](https://profile-counter.glitch.me/{mynameslex}/count.svg)

@@ -8,7 +8,7 @@
 
 ## Stats
 
-![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs)
+![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=algolia&show_icons=true&hide=prs&layout=dynamic)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=dynamic&hide=shaderlab,asp.net,cython,hlsl&theme=algolia&langs_count=6)
 
 ## Skillset

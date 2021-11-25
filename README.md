@@ -8,7 +8,8 @@
 
 ## Stats
 
-![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=yeblu&hide_icons=true&hide=prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
+![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=yeblu&hide_icons=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
 
 ## Skillset
 

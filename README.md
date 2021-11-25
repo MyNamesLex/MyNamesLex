@@ -27,7 +27,7 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=github_dark&langs_count=6)
 ## Lists
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=github_dark)](https://github.com/MyNamesLex/All-Jam-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=github_dark)](https://github.com/MyNamesLex/Favourites-I-Made)

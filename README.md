@@ -8,39 +8,34 @@
 
 ## Stats
 
-![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=algolia&hide_icons=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=algolia&langs_count=6)
+![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=yeblu&hide_icons=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
 
 ## Skillset
 
-### Engines
-<img src="https://img.shields.io/badge/-Unity-black" /><img src="https://img.shields.io/badge/-Ren'py-black" />
-
-### Languages
-<img src="https://img.shields.io/badge/-C%2B%2B-black" /><img src="https://img.shields.io/badge/-C%23-black" />
-<img src="https://img.shields.io/badge/-Python-black" />
-<img src="https://img.shields.io/badge/-CSS-black" />
-<img src="https://img.shields.io/badge/-HTML-black" />
-<img src="https://img.shields.io/badge/-Lua-black" />
-<img src="https://img.shields.io/badge/-Javascript-black" />
-<img src="https://img.shields.io/badge/-Processing-black" />
-<img src="https://img.shields.io/badge/-Git-black" />
-
-### Framework
-<img src="https://img.shields.io/badge/-.NET-black" />
-
-### Tools
-<img src="https://img.shields.io/badge/-Blender-black" /><img src="https://img.shields.io/badge/-Audacity-black" />
-<img src="https://img.shields.io/badge/-Gimp-black" />
-<img src="https://img.shields.io/badge/-OBS-black" />
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-black"/>
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-black"/>
-<img src="https://img.shields.io/badge/-Aesprite-black"/>
-<img src="https://img.shields.io/badge/-SFXR-black"/>
+<img src="https://img.shields.io/badge/-Unity-blue" /><img src="https://img.shields.io/badge/-Ren'py-blue" />
+<img src="https://img.shields.io/badge/-C%2B%2B-blue" />
+<img src="https://img.shields.io/badge/-C%23-blue" />
+<img src="https://img.shields.io/badge/-Python-blue" />
+<img src="https://img.shields.io/badge/-CSS-blue" />
+<img src="https://img.shields.io/badge/-HTML-blue" />
+<img src="https://img.shields.io/badge/-Lua-blue" />
+<img src="https://img.shields.io/badge/-Javascript-blue" />
+<img src="https://img.shields.io/badge/-Processing-blue" />
+<img src="https://img.shields.io/badge/-Git-blue" />
+<img src="https://img.shields.io/badge/-.NET-blue" />
+<img src="https://img.shields.io/badge/-Blender-blue" />
+<img src="https://img.shields.io/badge/-Audacity-blue" />
+<img src="https://img.shields.io/badge/-Gimp-blue" />
+<img src="https://img.shields.io/badge/-OBS-blue" />
+<img src="https://img.shields.io/badge/-Movie%20Studio%2016-blue"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
+<img src="https://img.shields.io/badge/-Aesprite-blue"/>
+<img src="https://img.shields.io/badge/-SFXR-blue"/>
 
 ## Lists
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/All-Jam-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/Favourites-I-Made)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)

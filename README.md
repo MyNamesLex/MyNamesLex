@@ -27,7 +27,6 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 ## Stats
-![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=yeblu&hide_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
 ## Lists
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)

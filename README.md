@@ -2,9 +2,9 @@
 
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://lexingto.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex)</p>
 
-- Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+Just having fun making games with Unity and trying new things out
 
-- RGB and Neon Lights makes everything look cool!
+RGB and Neon Lights makes everything look cool!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
 ## Skillset
 <img src="https://img.shields.io/badge/-Unity-blue" /><img src="https://img.shields.io/badge/-Ren'py-blue" />

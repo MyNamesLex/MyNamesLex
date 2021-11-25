@@ -5,16 +5,11 @@
 - Just having fun making games with Unity and trying new things out <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
 
 - RGB and Neon Lights makes everything look cool!
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
-
 ## Stats
-
 ![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&line_height=24&theme=yeblu&hide_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
-
 ## Skillset
-
 <img src="https://img.shields.io/badge/-Unity-blue" /><img src="https://img.shields.io/badge/-Ren'py-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue" />
 <img src="https://img.shields.io/badge/-C%23-blue" />
@@ -34,8 +29,6 @@
 <img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
-
 ## Lists
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)

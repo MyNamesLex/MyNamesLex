@@ -17,6 +17,7 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Javascript-blue" />
 <img src="https://img.shields.io/badge/-Processing-blue" />
 <img src="https://img.shields.io/badge/-Git-blue" />
+<img src="https://img.shields.io/badge/-Markdown-blue"/>
 <img src="https://img.shields.io/badge/-.NET-blue" />
 <img src="https://img.shields.io/badge/-Blender-blue" />
 <img src="https://img.shields.io/badge/-Audacity-blue" />
@@ -26,7 +27,6 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
-<img src="https://img.shields.io/badge/-Markdown-blue"/>
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=algolia&langs_count=6)
 ## Lists

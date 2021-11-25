@@ -29,5 +29,5 @@ RGB and Neon Lights makes everything look cool!
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=shaderlab,asp.net,cython,hlsl&theme=yeblu&langs_count=6)
 ## Lists
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Gams)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=all-jam-games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)

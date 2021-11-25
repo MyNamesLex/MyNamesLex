@@ -7,7 +7,7 @@ Just having fun making games with Unity and trying new things out
 RGB and Neon Lights makes everything look cool!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
 ## Skillset
-<img src="https://img.shields.io/badge/-Unity-blue" /><img src="https://img.shields.io/badge/-Ren'py-blue" />
+<img src="https://img.shields.io/badge/-Unity-blue" /> <img src="https://img.shields.io/badge/-Ren'py-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue" />
 <img src="https://img.shields.io/badge/-C%23-blue" />
 <img src="https://img.shields.io/badge/-Python-blue" />

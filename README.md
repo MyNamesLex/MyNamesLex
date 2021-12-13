@@ -14,7 +14,7 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-CSS-blue" />
 <img src="https://img.shields.io/badge/-HTML-blue" />
 <img src="https://img.shields.io/badge/-Lua-blue" />
-<img src="https://img.shields.io/badge/-Javascript-blue" />
+<img src="https://img.shields.io/badge/-Java-blue" />
 <img src="https://img.shields.io/badge/-Processing-blue" />
 <img src="https://img.shields.io/badge/-Git-blue" />
 <img src="https://img.shields.io/badge/-Markdown-blue"/>

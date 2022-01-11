@@ -42,4 +42,4 @@ RGB and Neon Lights makes everything look cool!
 
 #
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=ffff00&point=000000&area_color000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=ffff00&point=ffffff&area_color000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

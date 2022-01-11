@@ -30,7 +30,6 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
-  
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/Favourites-I-Made)

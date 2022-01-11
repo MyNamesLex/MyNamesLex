@@ -6,6 +6,7 @@ Just having fun making games with Unity and trying new things out
 
 RGB and Neon Lights makes everything look cool!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
+  
 ## Skillset
 <img src="https://img.shields.io/badge/-Unity-blue" /> <img src="https://img.shields.io/badge/-Ren'py-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
@@ -28,8 +29,8 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=hlsl&theme=algolia&langs_count=6)
-##
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&hide=hlsl&theme=algolia&langs_count=6)
+#
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/Favourites-I-Made)

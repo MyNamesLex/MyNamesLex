@@ -8,27 +8,26 @@ RGB and Neon Lights makes everything look cool!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Unity+Is+Fun)](https://git.io/typing-svg)
 ## Skillset
 <img src="https://img.shields.io/badge/-Unity-blue" /> <img src="https://img.shields.io/badge/-Ren'py-blue" />
-<img src="https://img.shields.io/badge/-C%2B%2B-blue" />
-<img src="https://img.shields.io/badge/-C%23-blue" />
-<img src="https://img.shields.io/badge/-Python-blue" />
-<img src="https://img.shields.io/badge/-CSS-blue" />
-<img src="https://img.shields.io/badge/-HTML-blue" />
-<img src="https://img.shields.io/badge/-Lua-blue" />
-<img src="https://img.shields.io/badge/-Java-blue" />
-<img src="https://img.shields.io/badge/-Processing-blue" />
-<img src="https://img.shields.io/badge/-Git-blue" />
-<img src="https://img.shields.io/badge/-Markdown-blue"/>
-<img src="https://img.shields.io/badge/-.NET-blue" />
-<img src="https://img.shields.io/badge/-Blender-blue" />
-<img src="https://img.shields.io/badge/-Audacity-blue" />
-<img src="https://img.shields.io/badge/-Gimp-blue" />
-<img src="https://img.shields.io/badge/-OBS-blue" />
+<img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
+<img src="https://img.shields.io/badge/-C%23-blue"/>
+<img src="https://img.shields.io/badge/-Python-blue"/>
+<img src="https://img.shields.io/badge/-CSS-blue"/>
+<img src="https://img.shields.io/badge/-HTML-blue"/>
+<img src="https://img.shields.io/badge/-Lua-blue"/>
+<img src="https://img.shields.io/badge/-Java-blue"/>
+<img src="https://img.shields.io/badge/-Processing-blue"/>
+<img src="https://img.shields.io/badge/-OpenGL-blue"/>
+<img src="https://img.shields.io/badge/-GLSL-blue"/>
+<img src="https://img.shields.io/badge/-Blender-blue"/>
+<img src="https://img.shields.io/badge/-Audacity-blue"/>
+<img src="https://img.shields.io/badge/-Gimp-blue"/>
+<img src="https://img.shields.io/badge/-OBS-blue"/>
 <img src="https://img.shields.io/badge/-Movie%20Studio%2016-blue"/>
 <img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
-<img src="https://img.shields.io/badge/-OpenGL-blue"/>
-<img src="https://img.shields.io/badge/-GLSL-blue"/>
+<img src="https://img.shields.io/badge/-Git-blue"/>
+<img src="https://img.shields.io/badge/-Markdown-blue"/>
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=hlsl&theme=algolia&langs_count=6)
 ## Lists

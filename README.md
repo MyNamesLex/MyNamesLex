@@ -27,6 +27,8 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
 <img src="https://img.shields.io/badge/-Aesprite-blue"/>
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
+<img src="https://img.shields.io/badge/-OpenGL-blue"/>
+<img src="https://img.shields.io/badge/-GLSL-blue"/>
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLex&layout=compact&hide=hlsl&theme=algolia&langs_count=6)
 ## Lists

@@ -33,10 +33,14 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
+
 #
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&hide=hlsl&langs_count=4&layout=default&hide_border=true&theme=yeblu)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
+
 #
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
 

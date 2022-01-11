@@ -36,3 +36,7 @@ RGB and Neon Lights makes everything look cool!
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)
+
+#
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

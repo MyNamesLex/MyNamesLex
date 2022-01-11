@@ -34,12 +34,12 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&hide=hlsl&langs_count=4&layout=default&theme=yeblu)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&hide=hlsl&langs_count=4&layout=default&hide_border=true&theme=yeblu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 #
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/All-Jam-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu)](https://github.com/MyNamesLex/Favourites-I-Made)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/All-Jam-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 #
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=ffff00&point=000000&area_color000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

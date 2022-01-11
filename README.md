@@ -31,5 +31,8 @@ RGB and Neon Lights makes everything look cool!
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&hide=hlsl&layout=compact&theme=algolia)
+#
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=algolia)](https://github.com/MyNamesLex/Favourites-I-Made)

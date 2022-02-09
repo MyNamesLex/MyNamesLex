@@ -37,6 +37,7 @@ Currently Learning Unreal Engine!
 <img src="https://img.shields.io/badge/-SFXR-blue"/>
 <img src="https://img.shields.io/badge/-Git-blue"/>
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
+<img src="https://img.shields.io/badge/-Jira-blue"/>
 
 # <!-- Stats -->
 

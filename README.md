@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;Probably+Trying+Something+New&font=Fira%20Code&center=true&color=007dc6"></a>
 </p>
+
 ## <p align="center">About Me</p>
 * Just having fun making games with Unity and trying new things out
 

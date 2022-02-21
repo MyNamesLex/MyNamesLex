@@ -9,11 +9,11 @@
 </p>
 
 ## <p align="center">About Me</p>
-Just having fun making games with Unity and trying new things out
+* Just having fun making games with Unity and trying new things out
 
-RGB and Neon Lights makes everything look cool!
+* RGB and Neon Lights makes everything look cool!
 
-Currently Learning Unreal Engine!
+* Currently Learning Unreal Engine!
  
 <!-- Skills -->
 #### Skillset

@@ -2,6 +2,7 @@
 
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex) [![Devpost](https://img.shields.io/badge/-Devpost-blue?style=for-the-badge)](https://devpost.com/MyNamesLex?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
+## About Me
 Just having fun making games with Unity and trying new things out
 
 RGB and Neon Lights makes everything look cool!

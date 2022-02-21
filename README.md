@@ -4,11 +4,12 @@
 <!-- Links -->
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex) [![Devpost](https://img.shields.io/badge/-Devpost-blue?style=for-the-badge)](https://devpost.com/MyNamesLex?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) <p align="right">![](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p>
 
-## About Me
-Just having fun making games with Unity and trying new things out
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;Probably+Trying+Something+New&font=Fira%20Code&center=true&color=007dc6"></a>
 </p>
+
+## About Me
+Just having fun making games with Unity and trying new things out
 
 RGB and Neon Lights makes everything look cool!
 

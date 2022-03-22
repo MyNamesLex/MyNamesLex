@@ -42,7 +42,7 @@
 
 # <!-- Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&hide=hlsl&langs_count=4&layout=default&hide_border=true&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=4&layout=default&hide_border=true&theme=yeblu)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 
 # <!-- Lists -->

@@ -13,7 +13,7 @@
 
 * RGB and Neon Lights makes everything look cool!
 
-* Probably trying out something new
+* Probably trying something new
  
 <!-- Skills -->
 #### Skillset

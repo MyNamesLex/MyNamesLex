@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-# <p align="center"> Hey there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p>
+# <p align="center"> Hey there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></p>
 
 <!-- Links -->
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex) [![Devpost](https://img.shields.io/badge/-Devpost-blue?style=for-the-badge)](https://devpost.com/MyNamesLex?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) </p>

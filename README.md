@@ -11,8 +11,6 @@
 * Just having fun making games with Unity and trying new things out
 
 * RGB and Neon Lights makes everything look cool!
-
-* Probably trying something new
  
 <!-- Skills -->
 #### Skillset

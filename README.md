@@ -9,18 +9,19 @@
 
 ## <p align="center">About Me</p>
 
-
+<br/>
 * Just having fun making games with Unity and trying new things out
 
 * RGB and Neon Lights makes everything look cool!
- 
+<br/>
 
 <!-- Skills -->
 ## Skillset
 
+<br/>
+<br/>
+
 <div align="center">
-
-
 
 <img src="https://img.shields.io/badge/-Unity-blue"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-blue"/>
 <img src="https://img.shields.io/badge/-Ren'py-blue" />
@@ -46,7 +47,6 @@
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
 <img src="https://img.shields.io/badge/-Jira-blue"/>
 <img src="https://img.shields.io/badge/-Trello-blue"/>
-
 
 </div>
 

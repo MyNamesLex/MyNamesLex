@@ -61,11 +61,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 </div>
-
-# <!-- Graph -->
-
-<div align="center">
-	
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=ffff00&point=ffffff&area_color000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>

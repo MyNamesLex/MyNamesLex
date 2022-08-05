@@ -13,7 +13,7 @@
 * RGB and Neon Lights makes everything look cool!
  
 <!-- Skills -->
-### Skillset
+## Skillset
 <img src="https://img.shields.io/badge/-Unity-blue" /> <img src="https://img.shields.io/badge/-Unreal Engine 5-blue" />
 <img src="https://img.shields.io/badge/-Ren'py-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
@@ -39,10 +39,8 @@
 <img src="https://img.shields.io/badge/-Jira-blue"/>
 <img src="https://img.shields.io/badge/-Trello-blue"/>
 
-### GitHub Stats
-
 # <!-- Stats -->
-
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=default&hide_border=true&theme=yeblu)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 

@@ -41,14 +41,21 @@
 
 # <!-- Stats -->
 ## GitHub Stats
+
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=default&hide_border=true&theme=yeblu)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
+</div>
 
 # <!-- Lists -->
 
+<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jam-Games&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/All-Jam-Games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
+</div>
 
 # <!-- Graph -->
 
+<div align="center">
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mynameslex&bg_color=002046&color=ffff00&line=ffff00&point=ffffff&area_color000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>

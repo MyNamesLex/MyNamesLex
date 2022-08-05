@@ -8,14 +8,18 @@
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;Probably+Trying+Something+New&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
 ## <p align="center">About Me</p>
+
+
 * Just having fun making games with Unity and trying new things out
 
 * RGB and Neon Lights makes everything look cool!
  
+
 <!-- Skills -->
 ## Skillset
 
 <div align="center">
+
 
 <img src="https://img.shields.io/badge/-Unity-blue"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-blue"/>
 <img src="https://img.shields.io/badge/-Ren'py-blue" />
@@ -41,6 +45,7 @@
 <img src="https://img.shields.io/badge/-Markdown-blue"/>
 <img src="https://img.shields.io/badge/-Jira-blue"/>
 <img src="https://img.shields.io/badge/-Trello-blue"/>
+
 
 </div>
 

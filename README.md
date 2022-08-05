@@ -44,7 +44,7 @@
 
 </div>
 
-# <!-- Stats -->
+<!-- Stats -->
 ## GitHub Stats
 
 <div align="center">

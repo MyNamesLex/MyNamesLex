@@ -54,7 +54,8 @@
 
 </div>
 
-# <!-- Lists -->
+<!-- Lists -->
+## Highlights
 
 <div align="center">
 	

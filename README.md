@@ -9,11 +9,11 @@
 
 ## <p align="center">About Me</p>
 
-<br/>
-
 * Just having fun making games with Unity and trying new things out
 
 * RGB and Neon Lights makes everything look cool!
+
+<br/>
 
 <!-- Skills -->
 ## Skillset
@@ -51,6 +51,8 @@
 
 <!-- Stats -->
 ## GitHub Stats
+
+<br/>
 
 <div align="center">
 

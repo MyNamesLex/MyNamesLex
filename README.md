@@ -7,7 +7,7 @@
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
-## <p align="center">About Me</p>
+## <p align="left">About Me</p>
 
 <br/>
 
@@ -16,7 +16,7 @@
 * RGB and Neon Lights makes everything look cool!
 
 <!-- Skills -->
-## <p align="center">Skills</p>
+## <p align="left">Skills</p>
 
 <br/>
 
@@ -50,7 +50,7 @@
 </div>
 
 <!-- Stats -->
-## <p align="center">GitHub Stats</p>
+## <p align="left">GitHub Stats</p>
 
 <br/>
 
@@ -61,7 +61,7 @@
 </div>
 
 <!-- Lists -->
-## <p align="center">Highlights</p>
+## <p align="left">Highlights</p>
 
 <div align="center">
 	

@@ -1,6 +1,10 @@
 <!-- Top Banner -->
 # <p align="center"> Hey there, I’m Lex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=110&section=header&animation=twinkling&reversal=true"/>
+</p>
+
 <!-- Links -->
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex) [![Devpost](https://img.shields.io/badge/-Devpost-blue?style=for-the-badge)](https://devpost.com/MyNamesLex?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) </p>
 ### <p align="center"> ![](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p> <!-- View Counter -->
@@ -72,5 +76,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=110&section=footer&animation=twinkling&reversal=true"/>
 </p>

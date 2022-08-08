@@ -16,7 +16,7 @@
 * RGB and Neon Lights makes everything look cool!
 
 <!-- Skills -->
-## Skillset
+## <p align="center">Skills</p>
 
 <br/>
 
@@ -50,7 +50,7 @@
 </div>
 
 <!-- Stats -->
-## GitHub Stats
+## <p align="center">GitHub Stats</p>
 
 <br/>
 
@@ -61,7 +61,7 @@
 </div>
 
 <!-- Lists -->
-## Highlights
+## <p align="center">Highlights</p>
 
 <div align="center">
 	

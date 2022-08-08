@@ -1,7 +1,7 @@
 <!-- Top Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&animation=twinkling&reversal=true"/>
- </p>
+</p>
 
 <!-- Links -->
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-blue?style=for-the-badge)](https://www.hackerrank.com/MyNamesLex) [![Devpost](https://img.shields.io/badge/-Devpost-blue?style=for-the-badge)](https://devpost.com/MyNamesLex?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) </p>
@@ -72,7 +72,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 </div>
-
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=110&section=footer&animation=twinkling&reversal=true"/>
 </p>

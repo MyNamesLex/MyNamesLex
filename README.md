@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&animation=twinkling&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&animation=fadeIn&reversal=true"/>
 </p>
 
 <!-- Links -->

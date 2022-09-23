@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-Ren'Py-blue" />
 <img src="https://img.shields.io/badge/-Crayta-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
-<img src="https://img.shields.io/badge/-Blueprints-blue"/>
+<img src="https://img.shields.io/badge/-Blueprint-blue"/>
 <img src="https://img.shields.io/badge/-C%23-blue"/>
 <img src="https://img.shields.io/badge/-Python-blue"/>
 <img src="https://img.shields.io/badge/-CSS-blue"/>

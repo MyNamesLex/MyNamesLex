@@ -1,4 +1,4 @@
-<!-- Top Banner -->
+ <!-- Top Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
 </p>
@@ -26,14 +26,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Unity-blue"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-blue"/>
-<img src="https://img.shields.io/badge/-Ren'Py-blue" />
 <img src="https://img.shields.io/badge/-Crayta-blue" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
 <img src="https://img.shields.io/badge/-Blueprint-blue"/>
 <img src="https://img.shields.io/badge/-C%23-blue"/>
 <img src="https://img.shields.io/badge/-Python-blue"/>
-<img src="https://img.shields.io/badge/-CSS-blue"/>
-<img src="https://img.shields.io/badge/-HTML-blue"/>
 <img src="https://img.shields.io/badge/-Lua-blue"/>
 <img src="https://img.shields.io/badge/-Processing-blue"/>
 <img src="https://img.shields.io/badge/-OpenGL-blue"/>

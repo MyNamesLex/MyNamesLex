@@ -66,7 +66,7 @@
 
 <div align="center">
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jams&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/All-Jams)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=All-Jams-And-Hackathons&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/All-Jams-And-Hackathons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
 
 </div>

@@ -1,7 +1,7 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffef00&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0&fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fffff0&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=100c08&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
@@ -70,7 +70,7 @@
 
 <h3> Visits </h3>
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=ffef00)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=1a1b27)
 
 <h3> Trophies </h3>
 

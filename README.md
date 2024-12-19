@@ -74,13 +74,13 @@
 
 <h3> Trophies </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=tokyo-night&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=tokyonight&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> GitHub Profile Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=tokyo-night&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=tokyo-night&hide=ren'py)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=tokyonight&hide=ren'py)
 
 <h3> Activity Graph </h3>
 

@@ -1,5 +1,5 @@
  <!-- Top Banner -->
- 
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
 </p>
@@ -9,7 +9,7 @@
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 ### <p align="center"> ![](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p> <!-- View Counter -->
 
-### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;&font=Fira%20Code&center=true&color=007dc6"></a></p>
+### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
 <!-- About Me -->
 

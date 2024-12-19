@@ -19,9 +19,7 @@
 * RGB and Neon Lights makes everything look cool!
 
 <!-- Skills -->
-<details>
-
-  <summary><p align="left">Skills</p></summary>
+<details> <summary><p align="left">Skills</p></summary>
 
   <div align="center">
 

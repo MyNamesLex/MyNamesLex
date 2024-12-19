@@ -20,7 +20,7 @@
 
 <!-- Skills -->
 <details>
-## <summary>Skills</summary>
+<summary>Skills</summary>
 
 <br>
 

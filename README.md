@@ -74,13 +74,13 @@
 
 <h3> Trophies </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=outrun&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=merko&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> GitHub Profile Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=outrun&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=merko&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=outrun&hide=ren'py)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=merko&hide=ren'py)
 
 <h3> Activity Graph </h3>
 

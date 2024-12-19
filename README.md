@@ -21,9 +21,7 @@
 <!-- Skills -->
 <details>
 
-  ## <summary><p align="left">Skills</p></summary>
-
-  <br/>
+  <summary><p align="left">Skills</p></summary>
 
   <div align="center">
 

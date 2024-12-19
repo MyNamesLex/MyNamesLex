@@ -76,6 +76,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyNamesLex&theme=algolia)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 </details>

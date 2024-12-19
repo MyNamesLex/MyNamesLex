@@ -1,14 +1,14 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f0b&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-yellow?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-yellow?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-0a0f0b?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-0a0f0b?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
-### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=yellow"></a></p>
+### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=0a0f0b"></a></p>
 
 <!-- About Me -->
 
@@ -32,28 +32,28 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Unity-yellow"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-yellow"/>
-<img src="https://img.shields.io/badge/-Crayta-yellow" />
-<img src="https://img.shields.io/badge/-C%2B%2B-yellow"/>
-<img src="https://img.shields.io/badge/-Blueprint-yellow"/>
-<img src="https://img.shields.io/badge/-C%23-yellow"/>
-<img src="https://img.shields.io/badge/-Python-yellow"/>
-<img src="https://img.shields.io/badge/-Lua-yellow"/>
-<img src="https://img.shields.io/badge/-Processing-yellow"/>
-<img src="https://img.shields.io/badge/-OpenGL-yellow"/>
-<img src="https://img.shields.io/badge/-GLSL-yellow"/>
-<img src="https://img.shields.io/badge/-Blender-yellow"/>
-<img src="https://img.shields.io/badge/-Audacity-yellow"/>
-<img src="https://img.shields.io/badge/-Gimp-yellow"/>
-<img src="https://img.shields.io/badge/-OBS-yellow"/>
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-yellow"/>
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-yellow"/>
-<img src="https://img.shields.io/badge/-Aesprite-yellow"/>
-<img src="https://img.shields.io/badge/-SFXR-yellow"/>
-<img src="https://img.shields.io/badge/-Git-yellow"/>
-<img src="https://img.shields.io/badge/-Markdown-yellow"/>
-<img src="https://img.shields.io/badge/-Jira-yellow"/>
-<img src="https://img.shields.io/badge/-Trello-yellow"/>
+<img src="https://img.shields.io/badge/-Unity-0a0f0b"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Crayta-0a0f0b" />
+<img src="https://img.shields.io/badge/-C%2B%2B-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Blueprint-0a0f0b"/>
+<img src="https://img.shields.io/badge/-C%23-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Python-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Lua-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Processing-0a0f0b"/>
+<img src="https://img.shields.io/badge/-OpenGL-0a0f0b"/>
+<img src="https://img.shields.io/badge/-GLSL-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Blender-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Audacity-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Gimp-0a0f0b"/>
+<img src="https://img.shields.io/badge/-OBS-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Movie%20Studio%2016-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Aesprite-0a0f0b"/>
+<img src="https://img.shields.io/badge/-SFXR-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Git-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Markdown-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Jira-0a0f0b"/>
+<img src="https://img.shields.io/badge/-Trello-0a0f0b"/>
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <h3> Visits </h3>
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=yellow)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=0a0f0b)
 
 <h3> Trophies </h3>
 
@@ -92,5 +92,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=110&section=footer&animation=twinkling&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f0b&height=110&section=footer&animation=twinkling&reversal=true"/>
 </p>

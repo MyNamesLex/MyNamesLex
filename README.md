@@ -1,16 +1,20 @@
  <!-- Top Banner -->
+ 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
+
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 ### <p align="center"> ![](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p> <!-- View Counter -->
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
 <!-- About Me -->
-## <p align="left">About Me</p>
+
+<details open>
+<summary><h2>About Me</h2></summary>
 
 <br/>
 
@@ -18,8 +22,11 @@
 
 * RGB and Neon Lights makes everything look cool!
 
+</details>
+
 <!-- Skills -->
-<details>
+
+<details open>
 <summary><h2>Skills</h2></summary>
 
 <br>
@@ -54,7 +61,9 @@
 </details> 
 
 <!-- Stats -->
-## <p align="left">GitHub Stats</p>
+
+<details>
+<summary><h2>Stats</h2></summary>
 
 <br/>
 
@@ -64,6 +73,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=algolia&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+</details>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=110&section=footer&animation=twinkling&reversal=true"/>

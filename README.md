@@ -75,17 +75,17 @@
 
 <h3> Trophies </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=juicyfresh&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=high-contrast&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> GitHub Profile Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=merko&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=merko&hide=ren'py)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=dark&hide=ren'py)
 
 <h3> Activity Graph </h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyNamesLex&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyNamesLex&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

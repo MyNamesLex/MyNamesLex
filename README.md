@@ -74,7 +74,7 @@
 
 <h3> Trophies </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=merko&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=juicyfresh&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> GitHub Profile Stats </h3>
 

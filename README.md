@@ -66,7 +66,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <h3> Visits </h3>
 

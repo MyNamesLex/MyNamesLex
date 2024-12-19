@@ -1,12 +1,12 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0&fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffef00&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-yellow?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-yellow?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-ffef00?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-ffef00?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=fffff0"></a></p>
 
@@ -32,28 +32,28 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Unity-yellow"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-yellow"/>
-<img src="https://img.shields.io/badge/-Crayta-yellow" />
-<img src="https://img.shields.io/badge/-C%2B%2B-yellow"/>
-<img src="https://img.shields.io/badge/-Blueprint-yellow"/>
-<img src="https://img.shields.io/badge/-C%23-yellow"/>
-<img src="https://img.shields.io/badge/-Python-yellow"/>
-<img src="https://img.shields.io/badge/-Lua-yellow"/>
-<img src="https://img.shields.io/badge/-Processing-yellow"/>
-<img src="https://img.shields.io/badge/-OpenGL-yellow"/>
-<img src="https://img.shields.io/badge/-GLSL-yellow"/>
-<img src="https://img.shields.io/badge/-Blender-yellow"/>
-<img src="https://img.shields.io/badge/-Audacity-yellow"/>
-<img src="https://img.shields.io/badge/-Gimp-yellow"/>
-<img src="https://img.shields.io/badge/-OBS-yellow"/>
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-yellow"/>
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-yellow"/>
-<img src="https://img.shields.io/badge/-Aesprite-yellow"/>
-<img src="https://img.shields.io/badge/-SFXR-yellow"/>
-<img src="https://img.shields.io/badge/-Git-yellow"/>
-<img src="https://img.shields.io/badge/-Markdown-yellow"/>
-<img src="https://img.shields.io/badge/-Jira-yellow"/>
-<img src="https://img.shields.io/badge/-Trello-yellow"/>
+<img src="https://img.shields.io/badge/-Unity-ffef00"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-ffef00"/>
+<img src="https://img.shields.io/badge/-Crayta-ffef00" />
+<img src="https://img.shields.io/badge/-C%2B%2B-ffef00"/>
+<img src="https://img.shields.io/badge/-Blueprint-ffef00"/>
+<img src="https://img.shields.io/badge/-C%23-ffef00"/>
+<img src="https://img.shields.io/badge/-Python-ffef00"/>
+<img src="https://img.shields.io/badge/-Lua-ffef00"/>
+<img src="https://img.shields.io/badge/-Processing-ffef00"/>
+<img src="https://img.shields.io/badge/-OpenGL-ffef00"/>
+<img src="https://img.shields.io/badge/-GLSL-ffef00"/>
+<img src="https://img.shields.io/badge/-Blender-ffef00"/>
+<img src="https://img.shields.io/badge/-Audacity-ffef00"/>
+<img src="https://img.shields.io/badge/-Gimp-ffef00"/>
+<img src="https://img.shields.io/badge/-OBS-ffef00"/>
+<img src="https://img.shields.io/badge/-Movie%20Studio%2016-ffef00"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-ffef00"/>
+<img src="https://img.shields.io/badge/-Aesprite-ffef00"/>
+<img src="https://img.shields.io/badge/-SFXR-ffef00"/>
+<img src="https://img.shields.io/badge/-Git-ffef00"/>
+<img src="https://img.shields.io/badge/-Markdown-ffef00"/>
+<img src="https://img.shields.io/badge/-Jira-ffef00"/>
+<img src="https://img.shields.io/badge/-Trello-ffef00"/>
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <h3> Visits </h3>
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=yellow)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=ffef00)
 
 <h3> Trophies </h3>
 

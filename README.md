@@ -32,28 +32,29 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Unity-ffef00"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-ffef00"/>
-<img src="https://img.shields.io/badge/-Crayta-ffef00" />
-<img src="https://img.shields.io/badge/-C%2B%2B-ffef00"/>
-<img src="https://img.shields.io/badge/-Blueprint-ffef00"/>
-<img src="https://img.shields.io/badge/-C%23-ffef00"/>
-<img src="https://img.shields.io/badge/-Python-ffef00"/>
-<img src="https://img.shields.io/badge/-Lua-ffef00"/>
-<img src="https://img.shields.io/badge/-Processing-ffef00"/>
-<img src="https://img.shields.io/badge/-OpenGL-ffef00"/>
-<img src="https://img.shields.io/badge/-GLSL-ffef00"/>
-<img src="https://img.shields.io/badge/-Blender-ffef00"/>
-<img src="https://img.shields.io/badge/-Audacity-ffef00"/>
-<img src="https://img.shields.io/badge/-Gimp-ffef00"/>
-<img src="https://img.shields.io/badge/-OBS-ffef00"/>
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-ffef00"/>
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-ffef00"/>
-<img src="https://img.shields.io/badge/-Aesprite-ffef00"/>
-<img src="https://img.shields.io/badge/-SFXR-ffef00"/>
-<img src="https://img.shields.io/badge/-Git-ffef00"/>
-<img src="https://img.shields.io/badge/-Markdown-ffef00"/>
-<img src="https://img.shields.io/badge/-Jira-ffef00"/>
-<img src="https://img.shields.io/badge/-Trello-ffef00"/>
+<img src="https://img.shields.io/badge/-Unity-fffff0"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-fffff0"/>
+<img src="https://img.shields.io/badge/-Crayta-fffff0" />
+<img src="https://img.shields.io/badge/-C%2B%2B-fffff0"/>
+<img src="https://img.shields.io/badge/-Blueprint-fffff0"/>
+<img src="https://img.shields.io/badge/-C%23-fffff0"/>
+<img src="https://img.shields.io/badge/-Python-fffff0"/>
+<img src="https://img.shields.io/badge/-Lua-fffff0"/>
+<img src="https://img.shields.io/badge/-Processing-fffff0"/>
+<img src="https://img.shields.io/badge/-OpenGL-fffff0"/>
+<img src="https://img.shields.io/badge/-GLSL-fffff0"/>
+<img src="https://img.shields.io/badge/-Blender-fffff0"/>
+<img src="https://img.shields.io/badge/-Audacity-fffff0"/>
+<img src="https://img.shields.io/badge/-Gimp-fffff0"/>
+<img src="https://img.shields.io/badge/-OBS-fffff0"/>
+<img src="https://img.shields.io/badge/-Movie%20Studio%2016-fffff0"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-fffff0"/>
+<img src="https://img.shields.io/badge/-Aesprite-fffff0"/>
+<img src="https://img.shields.io/badge/-SFXR-fffff0"/>
+<img src="https://img.shields.io/badge/-Git-fffff0"/>
+<img src="https://img.shields.io/badge/-Github Desktop-fffff0"/>
+<img src="https://img.shields.io/badge/-Markdown-fffff0"/>
+<img src="https://img.shields.io/badge/-Jira-fffff0"/>
+<img src="https://img.shields.io/badge/-Trello-fffff0"/>
 
 </div>
 

@@ -1,14 +1,14 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=ffffff&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-1a1b27?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-1a1b27?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
-### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=007dc6"></a></p>
+### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=1a1b27"></a></p>
 
 <!-- About Me -->
 
@@ -32,28 +32,28 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Unity-blue"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-blue"/>
-<img src="https://img.shields.io/badge/-Crayta-blue" />
-<img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
-<img src="https://img.shields.io/badge/-Blueprint-blue"/>
-<img src="https://img.shields.io/badge/-C%23-blue"/>
-<img src="https://img.shields.io/badge/-Python-blue"/>
-<img src="https://img.shields.io/badge/-Lua-blue"/>
-<img src="https://img.shields.io/badge/-Processing-blue"/>
-<img src="https://img.shields.io/badge/-OpenGL-blue"/>
-<img src="https://img.shields.io/badge/-GLSL-blue"/>
-<img src="https://img.shields.io/badge/-Blender-blue"/>
-<img src="https://img.shields.io/badge/-Audacity-blue"/>
-<img src="https://img.shields.io/badge/-Gimp-blue"/>
-<img src="https://img.shields.io/badge/-OBS-blue"/>
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-blue"/>
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-blue"/>
-<img src="https://img.shields.io/badge/-Aesprite-blue"/>
-<img src="https://img.shields.io/badge/-SFXR-blue"/>
-<img src="https://img.shields.io/badge/-Git-blue"/>
-<img src="https://img.shields.io/badge/-Markdown-blue"/>
-<img src="https://img.shields.io/badge/-Jira-blue"/>
-<img src="https://img.shields.io/badge/-Trello-blue"/>
+<img src="https://img.shields.io/badge/-Unity-1a1b27"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-1a1b27"/>
+<img src="https://img.shields.io/badge/-Crayta-1a1b27" />
+<img src="https://img.shields.io/badge/-C%2B%2B-1a1b27"/>
+<img src="https://img.shields.io/badge/-Blueprint-1a1b27"/>
+<img src="https://img.shields.io/badge/-C%23-1a1b27"/>
+<img src="https://img.shields.io/badge/-Python-1a1b27"/>
+<img src="https://img.shields.io/badge/-Lua-1a1b27"/>
+<img src="https://img.shields.io/badge/-Processing-1a1b27"/>
+<img src="https://img.shields.io/badge/-OpenGL-1a1b27"/>
+<img src="https://img.shields.io/badge/-GLSL-1a1b27"/>
+<img src="https://img.shields.io/badge/-Blender-1a1b27"/>
+<img src="https://img.shields.io/badge/-Audacity-1a1b27"/>
+<img src="https://img.shields.io/badge/-Gimp-1a1b27"/>
+<img src="https://img.shields.io/badge/-OBS-1a1b27"/>
+<img src="https://img.shields.io/badge/-Movie%20Studio%2016-1a1b27"/>
+<img src="https://img.shields.io/badge/-Bosca%20Ceoil-1a1b27"/>
+<img src="https://img.shields.io/badge/-Aesprite-1a1b27"/>
+<img src="https://img.shields.io/badge/-SFXR-1a1b27"/>
+<img src="https://img.shields.io/badge/-Git-1a1b27"/>
+<img src="https://img.shields.io/badge/-Markdown-1a1b27"/>
+<img src="https://img.shields.io/badge/-Jira-1a1b27"/>
+<img src="https://img.shields.io/badge/-Trello-1a1b27"/>
 
 </div>
 
@@ -92,5 +92,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=110&section=footer&animation=twinkling&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=110&section=footer&animation=twinkling&reversal=true"/>
 </p>

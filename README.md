@@ -6,7 +6,7 @@
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/) ![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
@@ -68,8 +68,13 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=yeblu&hide=ren'py)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=yeblu&hide=ren'py)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=algolia&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)
 
 </div>
 

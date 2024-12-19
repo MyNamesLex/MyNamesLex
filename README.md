@@ -1,14 +1,14 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=white&fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0 &fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
 
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-yellow?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-yellow?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
-### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=ffff00"></a></p>
+### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=fffff0"></a></p>
 
 <!-- About Me -->
 

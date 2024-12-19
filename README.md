@@ -10,6 +10,7 @@
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Game+Development+Is+Fun;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 
 <!-- About Me -->
+<details> 
 ## <summary><p align="left">About Me</p></summary>
 
 <br/>
@@ -49,6 +50,8 @@
 <img src="https://img.shields.io/badge/-Trello-blue"/>
 
 </div>
+
+</details> 
 
 <!-- Stats -->
 ## <p align="left">GitHub Stats</p>

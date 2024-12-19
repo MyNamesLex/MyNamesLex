@@ -60,16 +60,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=yeblu&hide=ren'py)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=algolia&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-</div>
-
-<!-- Lists -->
-## <p align="left">Highlights</p>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mynameslex&repo=Favourites-I-Made&show_owner=true&theme=yeblu&hide_border=true)](https://github.com/MyNamesLex/Favourites-I-Made)
-
 </div>
 <!-- Footer -->
 <p align="center">

@@ -68,13 +68,13 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=yeblu&hide=ren'py)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=5&layout=compact&hide_border=true&theme=yeblu&hide=ren'py)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyNamesLex&theme=algolia&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=yeblu&hide_border=true)
 
 </div>
 

@@ -8,7 +8,7 @@
 
 ### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-yellow?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-yellow?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
-### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=yellow"></a></p>
+### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=ffff00"></a></p>
 
 <!-- About Me -->
 

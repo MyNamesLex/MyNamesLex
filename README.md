@@ -70,7 +70,7 @@
 
 <h3> Visits </h3>
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=201c24)
 
 <h3> Trophies </h3>
 

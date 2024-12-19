@@ -6,8 +6,7 @@
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
-### <p align="center"> ![](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p> <!-- View Counter -->
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-blue?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/) ![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=blue)</p>
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=007dc6"></a></p>
 

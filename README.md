@@ -1,7 +1,7 @@
  <!-- Top Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0 &fontAlignY=45&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=Hi%20There,%20I'm%20Lex&fontColor=fffff0&fontAlignY=45&reversal=true"/>
 </p>
 
 <!-- Links -->
@@ -92,5 +92,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=110&section=footer&animation=twinkling&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fffff0&height=110&section=footer&animation=twinkling&reversal=true"/>
 </p>

@@ -6,7 +6,7 @@
 
 <!-- Links -->
 
-### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-ffef00?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-ffef00?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
+### <p align="center"> [![Itch](https://img.shields.io/badge/-itch.io-fffff0?style=for-the-badge)](https://mynameslex.itch.io/) [![Leetcode](https://img.shields.io/badge/-leetcode-fffff0?style=for-the-badge)](https://leetcode.com/u/MyNamesLex/)</p>
 
 ### <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Programmer;&font=Fira%20Code&center=true&color=fffff0"></a></p>
 
@@ -71,7 +71,7 @@
 
 <h3> Visits </h3>
 
-![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=1a1b27)
+![Visits](https://komarev.com/ghpvc/?username=MyNamesLex&color=fffff0)
 
 <h3> Trophies </h3>
 

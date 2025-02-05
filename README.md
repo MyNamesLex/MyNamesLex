@@ -81,7 +81,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameslex&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=6&layout=compact&hide_border=true&theme=dark&hide=hlsl,shaderlab,glsl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameslex&langs_count=6&layout=compact&hide_border=true&theme=dark&hide=hlsl,shaderlab,glsl,processing)
 
 <h3> Activity Graph </h3>
 

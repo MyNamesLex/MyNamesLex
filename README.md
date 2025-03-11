@@ -17,7 +17,7 @@
 
 <br/>
 
-* Passionate about making games and experimenting with new mechanics
+* Passionate about making games and experimenting with new, interesting and unique mechanics
 
 * Love making dumb, funny mods to create funny scenarios especially in cutscenes
 

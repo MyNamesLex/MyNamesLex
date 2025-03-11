@@ -28,7 +28,7 @@
 <details open>
 <summary><h2>Quote Generator</h2></summary>
 
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=general&font=Gabrielle)
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=success&font=Gabrielle)
 
 </details>
 

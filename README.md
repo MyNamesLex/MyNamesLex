@@ -55,6 +55,9 @@
 <img src="https://img.shields.io/badge/-Markdown-fffff0"/>
 <img src="https://img.shields.io/badge/-Jira-fffff0"/>
 <img src="https://img.shields.io/badge/-Trello-fffff0"/>
+<img src="https://img.shields.io/badge/-Visual Studio-fffff0"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-fffff0"/>
+<img src="https://img.shields.io/badge/-Sublime Text-fffff0"/>
 
 </div>
 

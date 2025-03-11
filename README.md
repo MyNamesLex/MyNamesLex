@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-Unity-fffff0"/> <img src="https://img.shields.io/badge/-Unreal Engine 5-fffff0"/>
 <img src="https://img.shields.io/badge/-Crayta-fffff0" />
 <img src="https://img.shields.io/badge/-C%2B%2B-fffff0"/>
-<img src="https://img.shields.io/badge/-Blueprint-fffff0"/>
+<img src="https://img.shields.io/badge/-Blueprints-fffff0"/>
 <img src="https://img.shields.io/badge/-C%23-fffff0"/>
 <img src="https://img.shields.io/badge/-Python-fffff0"/>
 <img src="https://img.shields.io/badge/-Lua-fffff0"/>

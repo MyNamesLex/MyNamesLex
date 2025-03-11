@@ -50,7 +50,8 @@
 <img src="https://img.shields.io/badge/-Aseprite-fffff0"/>  
 <img src="https://img.shields.io/badge/-Gimp-fffff0"/>  
 
-## 🎵 Audio & Video  
+## 🎵 Audio & Video
+<img src="https://img.shields.io/badge/-FL Studio 20-fffff0"/>  
 <img src="https://img.shields.io/badge/-Audacity-fffff0"/>  
 <img src="https://img.shields.io/badge/-OBS-fffff0"/>  
 <img src="https://img.shields.io/badge/-Movie%20Studio%2016-fffff0"/>  

@@ -19,16 +19,7 @@
 
 * Just having fun making games and trying new things out
 
-* RGB and Neon Lights makes everything look cool!
-
-</details>
-
-<!-- Skills -->
-
-<details open>
-<summary><h2>Quote Generator</h2></summary>
-
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=success&font=Gabrielle)
+* RGB and Neon Lights makes everything look cool
 
 </details>
 

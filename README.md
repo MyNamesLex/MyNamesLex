@@ -17,9 +17,11 @@
 
 <br/>
 
-* Just having fun making games and trying new things out
+* Passionate about making games and experimenting with new mechanics
 
-* RGB and Neon Lights makes everything look cool
+* Love making dumb, funny mods to create funny scenarios especially in cutscenes
+
+* Always looking to learn something new, whether it be a new tool or technique in gameplay programming, AI development in games or optimization
 
 </details>
 

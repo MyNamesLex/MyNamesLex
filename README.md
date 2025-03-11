@@ -26,6 +26,15 @@
 <!-- Skills -->
 
 <details open>
+<summary><h2>Quote</h2></summary>
+
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=motivational&font=Gabrielle)
+
+</details>
+
+<!-- Skills -->
+
+<details open>
 <summary><h2>Skills</h2></summary>
 
 <br>

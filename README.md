@@ -15,63 +15,50 @@
 <details open>
 <summary><h2>About Me</h2></summary>
 
-<br/>
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
 
-* Passionate about making games and experimenting with new, interesting and unique mechanics
+struct MyNamesLex
+{
+    std::vector<std::string> GameEngines = {"Unity", "Unreal Engine 5", "Crayta"};
+    std::vector<std::string> Languages = {"C++", "Blueprints", "C#", "Python", "Lua", "Processing", "OpenGL", "GLSL"};
+    std::vector<std::string> ArtSoftware = {"Blender", "Aseprite", "Gimp"};
+    std::vector<std::string> AudioAndVideoSoftware = {"FL Studio 20", "Audacity", "OBS", "Movie Studio 16", "Bosca Ceoil", "SFXR"};
+    std::vector<std::string> Tools = {"Git", "Github Desktop", "Git Bash", "Markdown", "Jira", "Trello"};
 
-* Love making dumb, funny mods to create funny scenarios especially in cutscenes
+    void PrintCategory(std::vector<std::string> category)
+    {
+        for (int i = 0; i < category.size(); i++)
+        {
+            std::cout << category[i] << std::endl;
+        }
+    }
 
-* Always looking to learn something new, whether it be a new tool or technique in gameplay programming, AI development in games or optimization
+    void PrintAll()
+    {
+        PrintCategory(GameEngines);
+        PrintCategory(Languages);
+        PrintCategory(ArtSoftware);
+        PrintCategory(AudioAndVideoSoftware);
+        PrintCategory(Tools);
+    }
+};
 
-</details>
+int main()
+{
+    MyNamesLex lex;
 
-<!-- Skills -->
+    std::cout << "Passionate about making games and experimenting with new, interesting and unique mechanics" << std::endl;
+    std::cout << "Love making dumb, funny mods to create funny scenarios especially in cutscenes" << std::endl;
+    std::cout << "Always looking to learn something new, whether it be a new tool or technique in gameplay programming, AI development in games or optimization" << std::endl;
 
-<details open>
-<summary><h2>Skills</h2></summary>
+    lex.PrintAll();
 
-<br>
-
-## 🎮 Game Engines
-<img src="https://img.shields.io/badge/-Unity-fffff0"/>  
-<img src="https://img.shields.io/badge/-Unreal Engine 5-fffff0"/>  
-<img src="https://img.shields.io/badge/-Crayta-fffff0"/>  
-
-## 💻 Programming Languages
-<img src="https://img.shields.io/badge/-C%2B%2B-fffff0"/>  
-<img src="https://img.shields.io/badge/-Blueprints-fffff0"/>  
-<img src="https://img.shields.io/badge/-C%23-fffff0"/>  
-<img src="https://img.shields.io/badge/-Python-fffff0"/>  
-<img src="https://img.shields.io/badge/-Lua-fffff0"/>  
-<img src="https://img.shields.io/badge/-Processing-fffff0"/>  
-<img src="https://img.shields.io/badge/-OpenGL-fffff0"/>  
-<img src="https://img.shields.io/badge/-GLSL-fffff0"/>  
-
-## 🎨 Art Software
-<img src="https://img.shields.io/badge/-Blender-fffff0"/>  
-<img src="https://img.shields.io/badge/-Aseprite-fffff0"/>  
-<img src="https://img.shields.io/badge/-Gimp-fffff0"/>  
-
-## 🎵 Audio & Video
-<img src="https://img.shields.io/badge/-FL Studio 20-fffff0"/>  
-<img src="https://img.shields.io/badge/-Audacity-fffff0"/>  
-<img src="https://img.shields.io/badge/-OBS-fffff0"/>  
-<img src="https://img.shields.io/badge/-Movie%20Studio%2016-fffff0"/>  
-<img src="https://img.shields.io/badge/-Bosca%20Ceoil-fffff0"/>  
-<img src="https://img.shields.io/badge/-SFXR-fffff0"/>  
-
-## 🔧 Tools
-<img src="https://img.shields.io/badge/-Git-fffff0"/>  
-<img src="https://img.shields.io/badge/-Github Desktop-fffff0"/>  
-<img src="https://img.shields.io/badge/-Git Bash-fffff0"/>  
-<img src="https://img.shields.io/badge/-Markdown-fffff0"/>  
-<img src="https://img.shields.io/badge/-Jira-fffff0"/>  
-<img src="https://img.shields.io/badge/-Trello-fffff0"/>  
-
-</div>
-
-</details> 
-
+    return 0;
+}
+```
 <!-- Stats -->
 
 <details>

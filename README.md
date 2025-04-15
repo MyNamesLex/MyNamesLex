@@ -21,7 +21,7 @@
 
 * Love creating funny mods to create comical scenarios in video games, especially in cutscenes.
 
-* Always looking to learn something new, whether it be a new tool or technique in gameplay programming, AI development in games or optimization.
+* Always looking to learn something new in gameplay programming, AI development in games or optimization.
 
 </details>
 

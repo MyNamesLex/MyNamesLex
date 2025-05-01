@@ -71,6 +71,8 @@
 </div>
 
 </details> 
+ 
+### <p align="center"> [![MyNamesLex/All-Jams-And-Hackathons - GitHub](https://gh-card.dev/repos/MyNamesLex/All-Jams-And-Hackathons.svg)](https://github.com/MyNamesLex/All-Jams-And-Hackathons) </p>
 
 <!-- Stats -->
 

@@ -70,9 +70,16 @@
 
 </div>
 
-</details> 
+</details>
+
+<!-- Featured -->
+
+<details open>
+<summary><h2>Featured</h2></summary>
  
 ### <p align="center"> [![MyNamesLex/All-Jams-And-Hackathons - GitHub](https://gh-card.dev/repos/MyNamesLex/All-Jams-And-Hackathons.svg)](https://github.com/MyNamesLex/All-Jams-And-Hackathons) </p>
+
+</details>
 
 <!-- Stats -->
 

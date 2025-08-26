@@ -47,11 +47,16 @@
 <img src="https://img.shields.io/badge/-OpenGL-fffff0"/>  
 <img src="https://img.shields.io/badge/-GLSL-fffff0"/>  
 <img src="https://img.shields.io/badge/-XAML-fffff0"/>  
+<img src="https://img.shields.io/badge/-JavaScript-fffff0"/>
+<img src="https://img.shields.io/badge/-HTML-fffff0"/>
+<img src="https://img.shields.io/badge/-CSS-fffff0"/>
+<img src="https://img.shields.io/badge/-PHP-fffff0"/>
+<img src="https://img.shields.io/badge/-MySQL-fffff0"/>
 
 ## 🎨 Art Software
 <img src="https://img.shields.io/badge/-Blender-fffff0"/>  
 <img src="https://img.shields.io/badge/-Aseprite-fffff0"/>  
-<img src="https://img.shields.io/badge/-Gimp-fffff0"/>  
+<img src="https://img.shie<img src="https://img.shields.io/badge/-XAML-fffff0"/>lds.io/badge/-Gimp-fffff0"/>  
 
 ## 🎵 Audio & Video
 <img src="https://img.shields.io/badge/-FL Studio 20-fffff0"/>  

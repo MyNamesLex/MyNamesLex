@@ -13,8 +13,6 @@
 <details open>
 <summary><h2>About Me</h2></summary>
 
-<br/>
-
 * Always looking to learn something new
 
 </details>
